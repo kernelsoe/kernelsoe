@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                20 hrs 17 mins  ██████████████▒░░░░░░░░░░   57.51 %
-Rust                      9 hrs 44 mins   ███████░░░░░░░░░░░░░░░░░░   27.64 %
-Vue.js                    2 hrs 41 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-TOML                      52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-WebGPU Shading Language   49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+TypeScript                18 hrs 9 mins   █████████████▓░░░░░░░░░░░   54.57 %
+Rust                      9 hrs 44 mins   ███████▒░░░░░░░░░░░░░░░░░   29.29 %
+Vue.js                    2 hrs 41 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+TOML                      52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+WebGPU Shading Language   49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->
