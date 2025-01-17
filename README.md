@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    14 hrs 58 mins  ████████████▓░░░░░░░░░░░░   50.48 %
-Other         9 hrs 43 mins   ████████▒░░░░░░░░░░░░░░░░   32.75 %
-Svelte        2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-Objective-C   1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-Python        46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+TypeScript    14 hrs 40 mins  ███████████▓░░░░░░░░░░░░░   46.13 %
+Other         11 hrs 41 mins  █████████▒░░░░░░░░░░░░░░░   36.79 %
+Svelte        1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Objective-C   1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+Python        46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 ```
 
 <!--END_SECTION:waka-->
